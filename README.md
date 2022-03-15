@@ -10,7 +10,7 @@
 - [trpo](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch) - Trust Region Policy Optimization | [Paper](https://arxiv.org/abs/1502.05477v5)
 - [ppo](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch) - Proximal Policy Optimization | [Paper](https://arxiv.org/abs/1707.06347v2)
 - [td3](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch) - Twin Delayed Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1802.09477v3)
-- [sac](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper](https://arxiv.org/pdf/1801.01290v2.pdf)
+- [sac](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905)
 
 ## Partially Observable Markov Decision Process
 To be implemented...
