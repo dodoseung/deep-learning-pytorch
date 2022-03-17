@@ -1,6 +1,6 @@
 # Deep Reinforcement Leanring Pytorch
 
-## General Reinforcment Learning
+## Model-free Reinforcment Learning
 - [dqn](https://github.com/dodoseung/dqn-deep-q-network-pytorch) - Deep Q Network | [Paper](https://arxiv.org/abs/1312.5602v1)
 - [vpg](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Vanilla Policy Gradient
 - [ac](https://github.com/dodoseung/ac-actor-critic-pytorch) - Actor Critic
@@ -12,6 +12,8 @@
 - [td3](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch) - Twin Delayed Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1802.09477v3)
 - [sac](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905) [Paper3](https://arxiv.org/abs/1910.07207)
 
+## Model-based Reinforcement Learning
+To be implemented...
 ## Partially Observable Markov Decision Process
 To be implemented...
 ## Inverse Reinforcement Learning
@@ -20,3 +22,9 @@ To be implemented...
 To be implemented...
 ## Meta Reinforcement Learning
 To be implemented...
+## Hierarchical Reinforcement Learning
+To be implemented...
+## Distributed Reinforcement Learning
+To be implemented...
+## Exploration
+To be implemented
