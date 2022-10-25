@@ -1,6 +1,8 @@
-# Deep Reinforcement Leanring Pytorch
+# Deep Leanring Pytorch
 
-## Model-free Reinforcment Learning
+## Reinforcement Learning
+
+### Model-free Reinforcment Learning
 - [dqn](https://github.com/dodoseung/dqn-deep-q-network-pytorch) - Deep Q Network | [Paper](https://arxiv.org/abs/1312.5602v1)
 - [vpg](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Vanilla Policy Gradient
 - [ac](https://github.com/dodoseung/ac-actor-critic-pytorch) - Actor Critic
@@ -11,20 +13,29 @@
 - [ppo](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch) - Proximal Policy Optimization | [Paper](https://arxiv.org/abs/1707.06347v2)
 - [td3](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch) - Twin Delayed Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1802.09477v3)
 - [sac](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905) [Paper3](https://arxiv.org/abs/1910.07207)
-
-## Model-based Reinforcement Learning
+<!--
+### Model-based Reinforcement Learning
 To be implemented...
-## Partially Observable Markov Decision Process
+### Partially Observable Markov Decision Process
 To be implemented...
-## Inverse Reinforcement Learning
+### Inverse Reinforcement Learning
 To be implemented...
-## Multi-agent Reinforcement Learning
+### Multi-agent Reinforcement Learning
 To be implemented...
-## Meta Reinforcement Learning
+### Meta Reinforcement Learning
 To be implemented...
-## Hierarchical Reinforcement Learning
+### Hierarchical Reinforcement Learning
 To be implemented...
-## Distributed Reinforcement Learning
+### Distributed Reinforcement Learning
 To be implemented...
-## Exploration
+### Exploration
 To be implemented
+-->
+
+## Computer Vision
+
+### Auto Encoder
+- [ae](https://github.com/dodoseung/auto-encoder-pytorch) - Auto Encoder
+
+# Super Resolution
+- [rednet](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Residual Encoder Decoder Network | [Paper](https://arxiv.org/abs/1603.09056)
