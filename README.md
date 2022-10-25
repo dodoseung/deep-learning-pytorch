@@ -37,5 +37,5 @@ To be implemented
 ### Auto Encoder
 - [ae](https://github.com/dodoseung/auto-encoder-pytorch) - Auto Encoder
 
-# Super Resolution
+### Super Resolution
 - [rednet](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Residual Encoder Decoder Network | [Paper](https://arxiv.org/abs/1603.09056)
