@@ -7,10 +7,10 @@ This project is the set of repositories written by Seungwon Do including a vario
 ### Model-free Reinforcment Learning
 - [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
   - Implementation
-    - [Numeric state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn.py)
-    - [Image state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn_image_input.py)
+    1. [Numeric state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn.py)
+    2. [Image state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn_image_input.py)
   - Reference paper
-    - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602v1)
+    1. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602v1)
 
 - [VPG](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Vanilla Policy Gradient
 - [AC](https://github.com/dodoseung/ac-actor-critic-pytorch) - Actor Critic
