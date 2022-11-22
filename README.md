@@ -1,5 +1,7 @@
 # Deep Leanring Pytorch
 
+This project is the set of repositories written by Seungwon Do including a various deep learning algorithms using Pytorch.
+
 ## Reinforcement Learning
 
 ### Model-free Reinforcment Learning
