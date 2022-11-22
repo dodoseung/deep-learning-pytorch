@@ -12,11 +12,10 @@ This project is the set of repositories written by Seungwon Do including a vario
   - Reference paper
     - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602v1)
 
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
+- [Vanilla Policy Gradient (VPG)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
+  - Implementation
+    - [Numeric state and discrete action](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch/blob/main/vpg.py)
 
-- [VPG](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Vanilla Policy Gradient
 - [AC](https://github.com/dodoseung/ac-actor-critic-pytorch) - Actor Critic
 - [A2C](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch) - Advantage Actor Critic | [Paper](https://arxiv.org/abs/1602.01783v2)
 - [A3C](https://github.com/dodoseung/a3c-asynchronous-advantage-actor-critic-pytorch) - Asynchronous Advantage Actor Critic | [Paper](https://arxiv.org/abs/1602.01783v2)
