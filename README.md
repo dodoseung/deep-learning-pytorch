@@ -42,7 +42,7 @@ This project is the set of repositories written by Seungwon Do including a vario
 7. [Proximal Policy Optimization (PPO)](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_discrete_gae.py)
-		* [Numeric state, continous action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
+		* [Numeric state, stochastic continous action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
 	* Reference paper
 		* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347v2)
 7. [Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch)
