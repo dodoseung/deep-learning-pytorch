@@ -50,8 +50,16 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Numeric state, continous action, and deterministic action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
 	* Reference paper
 		* [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477v3)
+8. [Soft Actor Critic (SAC)](https://github.com/dodoseung/sac-soft-actor-critic-pytorch)
+	* Implementation
+		* [Numeric state, discrete action, and entropy](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_discrete_entropy.py)
+		* [Numeric state, continous action, and stochastic action](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic.py)
+		* [Numeric state, continous action, stochastic action, and entropy](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic_entropy.py)
+	* Reference paper
+		* [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290v2.pdf)
+		* [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+		* [Soft Actor-Critic for Discrete Action Settings](https://arxiv.org/abs/1910.07207)
 
-- [SAC](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905) [Paper3](https://arxiv.org/abs/1910.07207)
 <!--### Model-based Reinforcement Learning
 To be implemented...
 ### Partially Observable Markov Decision Process
