@@ -75,17 +75,45 @@ To be implemented...
 ### Distributed Reinforcement Learning
 To be implemented...
 ### Exploration
-To be implemented-->
+To be implemented
+
+1. []()
+	* Implementation
+		* []()
+		* []()
+	* Reference paper
+		* []()
+-->
 
 ## Computer Vision
-### Auto Encoder
-- [AE](https://github.com/dodoseung/auto-encoder-pytorch) - Auto Encoder
-### Super Resolution
-- [REDNet](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Residual Encoder Decoder Network | [Paper](https://arxiv.org/abs/1603.09056)
-### Image Classification
-- [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch) - Resource-efficient Token Mixing for Images using 2D Discrete Wavelet Transform | [Paper](https://arxiv.org/abs/2205.14375)
+### Image Representation
+1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
+	* Implementation
+		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
+2. [Residual Encoder Decoder Network (REDNet)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
+	* Implementation
+		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
+	* Reference paper
+		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
+3. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
+	* Implementation
+		* [Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
+		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
+		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
+	* Reference paper
+		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
 
 ## Natural Language Processing
 ### Pre-trained Language Model
-- [Transformer](https://github.com/dodoseung/transformer-pytorch) - Transformer | [Paper](https://arxiv.org/abs/1706.03762)
-- [GPT-2](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch) - Generative Pre-Training | [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+1. [Transformer](https://github.com/dodoseung/transformer-pytorch)
+	* Implementation
+		* [Model](https://github.com/dodoseung/transformer-pytorch/blob/master/transformer.py)
+		* [Translator DE to EN](https://github.com/dodoseung/transformer-pytorch/blob/master/translator_de_to_en.py)
+	* Reference paper
+		* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+1. [Generative Pre-Training 2 (GPT-2)](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch)
+	* Implementation
+		* [Model](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch/blob/master/gpt2.py)
+	* Reference paper
+		* [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
