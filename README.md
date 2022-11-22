@@ -11,9 +11,9 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Image state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn_image_input.py)
 	* Reference paper
 		* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602v1)
-- [Vanilla Policy Gradient (VPG)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
-  - Implementation
-    - [Numeric state and discrete action](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch/blob/main/vpg.py)
+2. [Vanilla Policy Gradient (VPG)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
+	* Implementation
+		* [Numeric state and discrete action](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch/blob/main/vpg.py)
 
 - [AC](https://github.com/dodoseung/ac-actor-critic-pytorch) - Actor Critic
 - [A2C](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch) - Advantage Actor Critic | [Paper](https://arxiv.org/abs/1602.01783v2)
