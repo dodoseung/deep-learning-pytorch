@@ -30,24 +30,24 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783v2)
 6. [Deep Deterministic Policy Gradient (DDPG)](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch)
 	* Implementation
-		* [Numeric state and continous action](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch/blob/main/ddpg.py)
+		* [Numeric state, continous action, and deterministic action](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch/blob/main/ddpg.py)
 	* Reference paper
 		* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971v6)
 7. [Trust Region Policy Optimization (TRPO)](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_discrete.py)
-		* [Numeric state and continous action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_continous.py)
+		* [Numeric state, continous action, and stochastic action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_continous.py)
 	* Reference paper
 		* [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477v5)
 7. [Proximal Policy Optimization (PPO)](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_discrete_gae.py)
-		* [Numeric state, stochastic continous action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
+		* [Numeric state, continous action, stochastic action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
 	* Reference paper
 		* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347v2)
 7. [Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch)
 	* Implementation
-		* [Numeric state and deterministic continous action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
+		* [Numeric state, continous action, and deterministic action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
 	* Reference paper
 		* [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477v3)
 
