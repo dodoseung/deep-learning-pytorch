@@ -28,8 +28,12 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Numeric state and discrete action](https://github.com/dodoseung/a3c-asynchronous-advantage-actor-critic-pytorch/blob/main/a3c.py)
 	* Reference paper
 		* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783v2)
+6. [Deep Deterministic Policy Gradient (DDPG)](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch)
+	* Implementation
+		* [Numeric state and continous action](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch/blob/main/ddpg.py)
+	* Reference paper
+		* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971v6)
 
-- [DDPG](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch) - Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1509.02971v6)
 - [TRPO](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch) - Trust Region Policy Optimization | [Paper](https://arxiv.org/abs/1502.05477v5)
 - [PPO](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch) - Proximal Policy Optimization | [Paper](https://arxiv.org/abs/1707.06347v2)
 - [TD3](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch) - Twin Delayed Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1802.09477v3)
