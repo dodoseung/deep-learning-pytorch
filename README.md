@@ -47,9 +47,9 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347v2)
 7. [Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch)
 	* Implementation
-		* [Numeric state and continous deterministic action](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
+		* [Numeric state and deterministic continous action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
 	* Reference paper
-		* [Addressing Function Approximation Error in Actor-Critic Methods]([https://arxiv.org/abs/1707.06347v2](https://arxiv.org/abs/1802.09477v3))
+		* [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477v3)
 
 - [SAC](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905) [Paper3](https://arxiv.org/abs/1910.07207)
 <!--### Model-based Reinforcement Learning
