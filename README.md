@@ -5,7 +5,7 @@ This project is the set of repositories written by Seungwon Do including a vario
 ## Reinforcement Learning
 
 ### Model-free Reinforcment Learning
-- [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
+1. [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
   - Implementation
     1. [Numeric state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn.py)
     2. [Image state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn_image_input.py)
