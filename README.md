@@ -11,22 +11,18 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Image state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn_image_input.py)
 	* Reference paper
 		* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602v1)
-
 2. [Vanilla Policy Gradient (VPG)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch/blob/main/vpg.py)
-
 3. [Actor-Critic (AC)](https://github.com/dodoseung/ac-actor-critic-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/ac-actor-critic-pytorch/blob/main/ac.py)
-
 4. [Advantage Actor Critic (A2C)](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and training per step](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch/blob/main/a2c.py)
 		* [Numeric state, discrete action, and training per episode](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch/blob/main/a2c_per_epi.py)
 	* Reference paper
 		* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783v2)
-
 - [A3C](https://github.com/dodoseung/a3c-asynchronous-advantage-actor-critic-pytorch) - Asynchronous Advantage Actor Critic | [Paper](https://arxiv.org/abs/1602.01783v2)
 - [DDPG](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch) - Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1509.02971v6)
 - [TRPO](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch) - Trust Region Policy Optimization | [Paper](https://arxiv.org/abs/1502.05477v5)
