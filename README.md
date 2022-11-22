@@ -39,8 +39,13 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Numeric state and continous action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_continous.py)
 	* Reference paper
 		* [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477v5)
+7. [Proximal Policy Optimization (PPO)](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch)
+	* Implementation
+		* [Numeric state, discrete action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_discrete_gae.py)
+		* [Numeric state, continous action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
+	* Reference paper
+		* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347v2)
 
-- [PPO](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch) - Proximal Policy Optimization | [Paper](https://arxiv.org/abs/1707.06347v2)
 - [TD3](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch) - Twin Delayed Deep Deterministic Policy Gradient | [Paper](https://arxiv.org/abs/1802.09477v3)
 - [SAC](https://github.com/dodoseung/sac-soft-actor-critic-pytorch) - Soft Actor Critic | [Paper1](https://arxiv.org/pdf/1801.01290v2.pdf) [Paper2](https://arxiv.org/abs/1812.05905) [Paper3](https://arxiv.org/abs/1910.07207)
 <!--### Model-based Reinforcement Learning
