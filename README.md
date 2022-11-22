@@ -35,8 +35,10 @@ To be implemented-->
 - [AE](https://github.com/dodoseung/auto-encoder-pytorch) - Auto Encoder
 ### Super Resolution
 - [REDNet](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch) - Residual Encoder Decoder Network | [Paper](https://arxiv.org/abs/1603.09056)
+### Image Classification
+- [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch) - Resource-efficient Token Mixing for Images using 2D Discrete Wavelet Transform | [Paper](https://arxiv.org/abs/2205.14375)
 
 ## Natural Language Processing
-### Natural Language Generator
+### Pre-trained Language Model
 - [Transformer](https://github.com/dodoseung/transformer-pytorch) - Transformer | [Paper](https://arxiv.org/abs/1706.03762)
 - [GPT-2](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch) - Generative Pre-Training | [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
