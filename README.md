@@ -97,7 +97,7 @@ To be implemented
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
 3. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
 	* Implementation
-		* [Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
+		* [WaveMix-Lite Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
 		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
 		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
 	* Reference paper
@@ -107,13 +107,13 @@ To be implemented
 ### Pre-trained Language Model
 1. [Transformer](https://github.com/dodoseung/transformer-pytorch)
 	* Implementation
-		* [Model](https://github.com/dodoseung/transformer-pytorch/blob/master/transformer.py)
+		* [Trnasformer Model](https://github.com/dodoseung/transformer-pytorch/blob/master/transformer.py)
 		* [Translator DE to EN](https://github.com/dodoseung/transformer-pytorch/blob/master/translator_de_to_en.py)
 	* Reference paper
 		* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 1. [Generative Pre-Training 2 (GPT-2)](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch)
 	* Implementation
-		* [Model](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch/blob/master/gpt2.py)
+		* [GPT2 Model](https://github.com/dodoseung/gpt2-generative-pre-training-2-pytorch/blob/master/gpt2.py)
 	* Reference paper
 		* [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
