@@ -107,7 +107,7 @@ To be implemented
 ### Pre-trained Language Model
 1. [Transformer](https://github.com/dodoseung/transformer-pytorch)
 	* Implementation
-		* [Trnasformer Model](https://github.com/dodoseung/transformer-pytorch/blob/master/transformer.py)
+		* [Transformer Model](https://github.com/dodoseung/transformer-pytorch/blob/master/transformer.py)
 		* [Translator DE to EN](https://github.com/dodoseung/transformer-pytorch/blob/master/translator_de_to_en.py)
 	* Reference paper
 		* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
