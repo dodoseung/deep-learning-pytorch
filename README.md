@@ -90,7 +90,7 @@ To be implemented
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
 		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
-2. [Residual Encoder Decoder Network (REDNet)](https://github.com/dodoseung/vpg-vanilla-policy-gradient-pytorch)
+2. [Residual Encoder Decoder Network (REDNet)](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch)
 	* Implementation
 		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
