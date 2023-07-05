@@ -1,10 +1,10 @@
-# Deep Leanring Pytorch
+# Deep Learning Pytorch
 
-This project is the set of repositories written by Seungwon Do including a various deep learning algorithms using Pytorch.
+This project is a set of repositories written by Seungwon Do including various deep learning algorithms using Pytorch.
 
 ## Reinforcement Learning
 
-### Model-free Reinforcment Learning
+### Model-free Reinforcement Learning
 1. [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn.py)
@@ -17,7 +17,7 @@ This project is the set of repositories written by Seungwon Do including a vario
 3. [Actor Critic (AC)](https://github.com/dodoseung/ac-actor-critic-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/ac-actor-critic-pytorch/blob/main/ac.py)
-4. [Advantage Actor Critic (A2C)](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch)
+4. [Advantage Actor-Critic (A2C)](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and training per step](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch/blob/main/a2c.py)
 		* [Numeric state, discrete action, and training per episode](https://github.com/dodoseung/a2c-advantage-actor-critic-pytorch/blob/main/a2c_per_epi.py)
@@ -30,31 +30,31 @@ This project is the set of repositories written by Seungwon Do including a vario
 		* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783v2)
 6. [Deep Deterministic Policy Gradient (DDPG)](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch)
 	* Implementation
-		* [Numeric state, continous action, and deterministic action](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch/blob/main/ddpg.py)
+		* [Numeric state, continuous action, and deterministic action](https://github.com/dodoseung/ddpg-deep-deterministic-policy-gradient-pytorch/blob/main/ddpg.py)
 	* Reference paper
 		* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971v6)
 7. [Trust Region Policy Optimization (TRPO)](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_discrete.py)
-		* [Numeric state, continous action, and stochastic action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_continous.py)
+		* [Numeric state, continuous action, and stochastic action](https://github.com/dodoseung/trpo-trust-region-policy-optimization-pytorch/blob/main/trpo_continous.py)
 	* Reference paper
 		* [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477v5)
 7. [Proximal Policy Optimization (PPO)](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_discrete_gae.py)
-		* [Numeric state, continous action, stochastic action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
+		* [Numeric state, continuous action, stochastic action, and gae](https://github.com/dodoseung/ppo-proximal-policy-optimization-pytorch/blob/main/ppo_continous_gae.py)
 	* Reference paper
 		* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347v2)
 7. [Twin Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch)
 	* Implementation
-		* [Numeric state, continous action, and deterministic action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
+		* [Numeric state, continuous action, and deterministic action](https://github.com/dodoseung/td3-twin-delayed-deep-deterministic-policy-gradient-pytorch/blob/main/td3.py)
 	* Reference paper
 		* [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477v3)
-8. [Soft Actor Critic (SAC)](https://github.com/dodoseung/sac-soft-actor-critic-pytorch)
+8. [Soft Actor-Critic (SAC)](https://github.com/dodoseung/sac-soft-actor-critic-pytorch)
 	* Implementation
 		* [Numeric state, discrete action, and entropy](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_discrete_entropy.py)
-		* [Numeric state, continous action, and stochastic action](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic.py)
-		* [Numeric state, continous action, stochastic action, and entropy](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic_entropy.py)
+		* [Numeric state, continuous action, and stochastic action](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic.py)
+		* [Numeric state, continuous action, stochastic action, and entropy](https://github.com/dodoseung/sac-soft-actor-critic-pytorch/blob/main/sac_continous_stochastic_entropy.py)
 	* Reference paper
 		* [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290v2.pdf)
 		* [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
@@ -90,12 +90,18 @@ To be implemented
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
 		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
-2. [Residual Encoder Decoder Network (REDNet)](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch)
+2. [Variational Auto Encoder (VAE)](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch)
+	* Implementation
+		* [VAE Model](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder.py)
+		* [Image generation and EMNIST dataset](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder_emnist_image_generation.py)
+	* Reference paper
+		* [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v10)
+3. [Residual Encoder-Decoder Network (REDNet)](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch)
 	* Implementation
 		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
-3. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
+4. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
 	* Implementation
 		* [WaveMix-Lite Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
 		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
