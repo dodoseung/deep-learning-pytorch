@@ -5,7 +5,6 @@ This project is a set of repositories written by Seungwon Do including various d
 ## Reinforcement Learning
 
 ### Model-free Reinforcement Learning
-#### Singe-Agent Reinforcement Learning
 
 1. [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
 	* Implementation
