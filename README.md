@@ -5,6 +5,8 @@ This project is a set of repositories written by Seungwon Do including various d
 ## Reinforcement Learning
 
 ### Model-free Reinforcement Learning
+#### Singe-Agent Reinforcement Learning
+
 1. [Deep Q Network (DQN)](https://github.com/dodoseung/dqn-deep-q-network-pytorch)
 	* Implementation
 		* [Numeric state and discrete action](https://github.com/dodoseung/dqn-deep-q-network-pytorch/blob/main/dqn.py)
@@ -86,7 +88,7 @@ To be implemented
 -->
 
 ## Computer Vision
-### Image Representation
+### Supervised Learning
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
 		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
