@@ -111,6 +111,14 @@ To be implemented
 	* Reference paper
 		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
 
+5. [U-Net](https://github.com/dodoseung/unet-pytorch)
+	* Implementation
+		* [U-Net Model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
+   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
+	* Reference paper
+		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+
+
 ## Natural Language Processing
 ### Pre-trained Language Model
 1. [Transformer](https://github.com/dodoseung/transformer-pytorch)
