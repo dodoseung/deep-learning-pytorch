@@ -110,7 +110,6 @@ To be implemented
    		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
-
 5. [U-Net](https://github.com/dodoseung/unet-pytorch)
 	* Implementation
 		* [U-Net Model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
