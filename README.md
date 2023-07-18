@@ -87,7 +87,22 @@ To be implemented
 -->
 
 ## Computer Vision
-### Supervised Learning
+### Image Classification and Semantic Segmentation
+1. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
+	* Implementation
+		* [WaveMix-Lite Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
+		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
+		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
+   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
+	* Reference paper
+		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
+2. [U-Net](https://github.com/dodoseung/unet-pytorch)
+	* Implementation
+		* [U-Net Model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
+   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
+	* Reference paper
+		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+### Generative Model
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
 		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
@@ -102,21 +117,6 @@ To be implemented
 		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
-4. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
-	* Implementation
-		* [WaveMix-Lite Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
-		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
-		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
-   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
-	* Reference paper
-		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
-5. [U-Net](https://github.com/dodoseung/unet-pytorch)
-	* Implementation
-		* [U-Net Model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
-   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
-	* Reference paper
-		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-
 
 ## Natural Language Processing
 ### Pre-trained Language Model
