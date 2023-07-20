@@ -98,29 +98,29 @@ To be implemented
 		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
 2. [U-Net](https://github.com/dodoseung/unet-pytorch)
 	* Implementation
-		* [U-Net Model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
+		* [U-Net model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
    		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 ### Generative Model
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
-		* [Denoise](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
+		* [Denoise and fashion MNIST dataset](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
 2. [Variational Auto Encoder (VAE)](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch)
 	* Implementation
-		* [VAE Model](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder.py)
+		* [VAE model](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder.py)
 		* [Image generation and EMNIST dataset](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder_emnist_image_generation.py)
 	* Reference paper
 		* [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v10)
 3. [Residual Encoder-Decoder Network (REDNet)](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch)
 	* Implementation
-		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
+		* [Super resolution and CIFAR10 dataset](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
 4. [Generative Adversarial Network (GAN)](https://github.com/dodoseung/generative-adversarial-network-pytorch)
 	* Implementation
-		* [GAN Model](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan.py)
-  		* [Image Generation and EMNIST dataset](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
+		* [GAN model](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan.py)
+  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
 	* Reference paper
 		* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
 
