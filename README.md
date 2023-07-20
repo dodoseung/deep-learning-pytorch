@@ -90,7 +90,7 @@ To be implemented
 ### Image Classification and Semantic Segmentation
 1. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
 	* Implementation
-		* [WaveMix-Lite Model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
+		* [WaveMix-Lite model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
 		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
 		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
    		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
