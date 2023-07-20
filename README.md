@@ -117,6 +117,12 @@ To be implemented
 		* [Super resolution](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
+4. [Generative Adversarial Network (GAN)](https://github.com/dodoseung/generative-adversarial-network-pytorch)
+	* Implementation
+		* [GAN Model](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan.py)
+  		* [Image Generation and EMNIST dataset](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
+	* Reference paper
+		* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
 
 ## Natural Language Processing
 ### Pre-trained Language Model
