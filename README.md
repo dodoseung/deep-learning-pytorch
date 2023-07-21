@@ -123,6 +123,12 @@ To be implemented
   		* [Image generation and EMNIST dataset](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
 	* Reference paper
 		* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
+5. [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch)
+	* Implementation
+		* [WGAN model](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch/blob/main/wgan.py)
+  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
+	* Reference paper
+		* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 
 ## Natural Language Processing
 ### Pre-trained Language Model
