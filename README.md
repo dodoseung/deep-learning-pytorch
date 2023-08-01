@@ -91,55 +91,55 @@ To be implemented
 1. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
 	* Implementation
 		* [WaveMix-Lite model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
-		* [Image classification and CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
-		* [Image classification and Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
-   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
+		* [Image classification with CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
+		* [Image classification with Places-365 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_places365_image_classification.py)
+   		* [Semantic segmentation with Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
 2. [U-Net](https://github.com/dodoseung/unet-pytorch)
 	* Implementation
 		* [U-Net model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
-   		* [Semantic segmentation and Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
+   		* [Semantic segmentation with Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 ### Generative Model
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
-		* [Denoise and fashion MNIST dataset](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
+		* [Denoise with fashion MNIST dataset](https://github.com/dodoseung/auto-encoder-pytorch/blob/master/auto_encoder.py)
 2. [Variational Auto Encoder (VAE)](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch)
 	* Implementation
 		* [VAE model](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder.py)
-		* [Image generation and EMNIST dataset](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder_emnist_image_generation.py)
+		* [Image generation with EMNIST dataset](https://github.com/dodoseung/vae-variational-auto-encoder-pytorch/blob/main/variational_auto_encoder_emnist_image_generation.py)
 	* Reference paper
 		* [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v10)
 3. [Residual Encoder-Decoder Network (REDNet)](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch)
 	* Implementation
-		* [Super resolution and CIFAR10 dataset](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
+		* [Super resolution with CIFAR10 dataset](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
 4. [Generative Adversarial Network (GAN)](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch)
 	* Implementation
 		* [GAN model](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch/blob/main/gan.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
+  		* [Image generation with EMNIST dataset](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
 	* Reference paper
 		* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
 5. [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch)
 	* Implementation
 		* [WGAN model](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
+  		* [Image generation with EMNIST dataset](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
 	* Reference paper
 		* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 6. [Wasserstein Generative Adversarial Network Gradient Penalty (WGAN-GP)](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/)
 	* Implementation
 		* [WGAN-GP model](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penaltypytorch/blob/main/wgangp.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_emnist_image_generation.py)
-		* [Image generation and CIFAR10 dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
+  		* [Image generation with EMNIST dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_emnist_image_generation.py)
+		* [Image generation with CIFAR10 dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
 	* Reference paper
 		* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 7. [Cycle Generative Adversarial Network (CycleGan)](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch)
 	* Implementation
 		* [CycleGAN model with U-net](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan.py)
-  		* [Style transfer and apple2orange dataset](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan_style_transfer.py)
+  		* [Style transfer with apple2orange dataset](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan_style_transfer.py)
 	* Reference paper
 		* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
