@@ -117,25 +117,31 @@ To be implemented
 		* [Super resolution and CIFAR10 dataset](https://github.com/dodoseung/rednet-residual-encoder-decoder-network-pytorch/blob/master/rednet.py)
 	* Reference paper
 		* [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/abs/1603.09056)
-4. [Generative Adversarial Network (GAN)](https://github.com/dodoseung/generative-adversarial-network-pytorch)
+4. [Generative Adversarial Network (GAN)](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch)
 	* Implementation
-		* [GAN model](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
+		* [GAN model](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch/blob/main/gan.py)
+  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/gan-generative-adversarial-network-pytorch/blob/main/gan_emnist_image_generation.py)
 	* Reference paper
 		* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
-5. [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch)
+5. [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch)
 	* Implementation
-		* [WGAN model](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch/blob/main/wgan.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
+		* [WGAN model](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan.py)
+  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
 	* Reference paper
 		* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
-6. [Wasserstein Generative Adversarial Network Gradient Penalty (WGAN-GP)](https://github.com/dodoseung/wasserstein-generative-adversarial-network-gradient-penalty-pytorch/)
+6. [Wasserstein Generative Adversarial Network Gradient Penalty (WGAN-GP)](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/)
 	* Implementation
-		* [WGAN-GP model](https://github.com/dodoseung/wasserstein-generative-adversarial-network-gradient-penaltypytorch/blob/main/wgangp.py)
-  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_emnist_image_generation.py)
-		* [Image generation and CIFAR10 dataset](https://github.com/dodoseung/wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
+		* [WGAN-GP model](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penaltypytorch/blob/main/wgangp.py)
+  		* [Image generation and EMNIST dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_emnist_image_generation.py)
+		* [Image generation and CIFAR10 dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
 	* Reference paper
 		* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
+7. [Cycle Generative Adversarial Network (CycleGan)](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch)
+	* Implementation
+		* [CycleGAN model with U-net](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan.py)
+  		* [Style transfer and apple2orange dataset](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan_style_transfer.py)
+	* Reference paper
+		* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
 ## Natural Language Processing
 ### Pre-trained Language Model
