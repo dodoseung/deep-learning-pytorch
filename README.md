@@ -136,10 +136,10 @@ To be implemented
 		* [Image generation and CIFAR10 dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
 	* Reference paper
 		* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
-7. [Cycle Generative Adversarial Network (CycleGan)](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch)
+7. [Cycle Generative Adversarial Network (CycleGan)](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch)
 	* Implementation
-		* [CycleGAN model with U-net](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan.py)
-  		* [Style transfer and apple2orange dataset](https://github.com/dodoseung/cycle-gan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan_style_transfer.py)
+		* [CycleGAN model with U-net](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan.py)
+  		* [Style transfer and apple2orange dataset](https://github.com/dodoseung/cyclegan-cycle-generative-adversarial-network-pytorch/blob/main/cycle_gan_style_transfer.py)
 	* Reference paper
 		* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
