@@ -126,7 +126,7 @@ To be implemented
 5. [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch)
 	* Implementation
 		* [WGAN model](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan.py)
-  		* [Image generation with EMNIST dataset](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_emnist_image_generation.py)
+  		* [Image generation with CIFAR10 dataset](https://github.com/dodoseung/wgan-wasserstein-generative-adversarial-network-pytorch/blob/main/wgan_cifar10_image_generation.py)
 	* Reference paper
 		* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 6. [Wasserstein Generative Adversarial Network Gradient Penalty (WGAN-GP)](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/)
