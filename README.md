@@ -132,7 +132,6 @@ To be implemented
 6. [Wasserstein Generative Adversarial Network Gradient Penalty (WGAN-GP)](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/)
 	* Implementation
 		* [WGAN-GP model](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penaltypytorch/blob/main/wgangp.py)
-  		* [Image generation with EMNIST dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_emnist_image_generation.py)
 		* [Image generation with CIFAR10 dataset](https://github.com/dodoseung/wgan-gp-wasserstein-generative-adversarial-network-gradient-penalty-pytorch/blob/main/wgangp_cifar10_image_generation.py)
 	* Reference paper
 		* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
