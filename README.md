@@ -88,19 +88,25 @@ To be implemented
 
 ## Computer Vision
 ### Image Classification and Semantic Segmentation
-1. [ResNet](https://github.com/dodoseung/resnet-residual-network-pytorch)
+1. [VGG](https://github.com/dodoseung/vgg-visual-geometry-group-pytorch)
+	* Implementation
+		* [VGG model](https://github.com/dodoseung/vgg-visual-geometry-group-pytorch/blob/main/vgg.py)
+   		* [Image classification with CIFAR10 dataset](https://github.com/dodoseung/vgg-visual-geometry-group-pytorch/blob/main/vgg_cifar10_image_classification.py)
+	* Reference paper
+		* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+2. [ResNet](https://github.com/dodoseung/resnet-residual-network-pytorch)
 	* Implementation
 		* [ResNet model](https://github.com/dodoseung/resnet-residual-network-pytorch/blob/main/resnet.py)
    		* [Image classification with CIFAR10 dataset](https://github.com/dodoseung/resnet-residual-network-pytorch/blob/main/resnet_cifar10_image_classification.py)
 	* Reference paper
 		* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-2. [U-Net](https://github.com/dodoseung/unet-pytorch)
+3. [U-Net](https://github.com/dodoseung/unet-pytorch)
 	* Implementation
 		* [U-Net model](https://github.com/dodoseung/unet-pytorch/blob/main/unet.py)
    		* [Semantic segmentation with Cityscapes dataset](https://github.com/dodoseung/unet-pytorch/blob/main/unet_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-3. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
+4. [WaveMix-Lite](https://github.com/dodoseung/wavemix-lite-pytorch)
 	* Implementation
 		* [WaveMix-Lite model](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite.py)
 		* [Image classification with CIFAR10 dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cifar10_image_classification.py)
