@@ -114,6 +114,12 @@ To be implemented
    		* [Semantic segmentation with Cityscapes dataset](https://github.com/dodoseung/wavemix-lite-pytorch/blob/master/wavemix_lite_cityscapes_semantic_segmentatiopn.py)
 	* Reference paper
 		* [WaveMix-Lite: A Resource-efficient Neural Network for Image Analysis](https://arxiv.org/abs/2205.14375)
+5. [ViT](https://github.com/dodoseung/vit-vision-transformer-pytorch)
+	* Implementation
+		* [ViT model](https://github.com/dodoseung/vit-vision-transformer-pytorch/blob/main/vit.py)
+		* [Image classification with CIFAR10 dataset](https://github.com/dodoseung/vit-vision-transformer-pytorch/blob/main/vit_cifar10_image_classification.py)
+	* Reference paper
+		* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 ### Generative Model
 1. [Auto Encoder (AE)](https://github.com/dodoseung/auto-encoder-pytorch)
 	* Implementation
